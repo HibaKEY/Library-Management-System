@@ -22,8 +22,16 @@ The system streamlines book management and improves operational efficiency.
 - Simple GUI built with Tkinter
 
 ## Project Structure
-```text
 Library-Management-System/
-│── main.py           # Main application
-│── books.db          # Database file (SQLite)
+│── Tkinterlibarary.py         # Database file (SQLite)
 │── README.md
+
+##Author
+Hiba Chakir
+Data Engineering Student
+Aspiring Full-Stack / Data Engineer
+
++GitHub: https://github.com/HibaKEY
+
+##License
+This project is licensed under the MIT License.
